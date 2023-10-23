@@ -25,6 +25,9 @@
 
     </extensions>
     <actions>
-
+        <action id="tw.iancheng.i18nsync.action.SyncI18nText" class="tw.iancheng.i18nsync.action.SyncI18nText"
+                text="Sync I18n Text" description="Sync I18n Text">
+            <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+        </action>
     </actions>
 </idea-plugin>
