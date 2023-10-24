@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cce6cfdc-21c7-4d20-b3aa-b5bec6d3076f" name="Changes" comment="&#10;init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tw/iancheng/i18nsync/action/SyncI18nText.java" afterDir="false" />
+    <list default="true" id="cce6cfdc-21c7-4d20-b3aa-b5bec6d3076f" name="Changes" comment="&#10;add select text function and check format">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tw/iancheng/i18nsync/action/SyncI18nText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tw/iancheng/i18nsync/action/SyncI18nText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,10 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -77,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698072613864</updated>
-      <workItem from="1698072617735" duration="9676000" />
+      <workItem from="1698072617735" duration="19857000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;init">
       <created>1698085629422</created>
@@ -86,16 +91,58 @@
       <option name="project" value="LOCAL" />
       <updated>1698085629422</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&#10;add select text function and check format">
+      <created>1698086052698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698086052698</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&#10;add select text function and check format">
+      <created>1698086202616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698086202616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add select text function and check format" />
     <MESSAGE value="&#10;init" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;init" />
+    <MESSAGE value="&#10;add select text function and check format" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;add select text function and check format" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tw/iancheng/i18nsync/action/SyncI18nText.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="requestBody" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
